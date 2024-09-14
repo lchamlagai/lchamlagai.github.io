@@ -1,8 +1,8 @@
 # /_data/authors.yml
 
-Lila Chamlagai:
-  name        : "Lila Chamlagai"
-  bio         : "PhD Student at School of Public Health"
+Lila K. Chamlagai:
+  name        : "Lila K. Chamlagai"
+  bio         : "PhD Student at Brown University School of Public Health"
   avatar      : "/assets/images/Lila.JPG"
   links:
     - label: "Mail"
@@ -18,6 +18,9 @@ Lila Chamlagai:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lila-chamlagai-83185a272/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "http://www.youtube.com/@LilakChamlagai94"
 
 
 
