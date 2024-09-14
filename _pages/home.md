@@ -13,7 +13,7 @@ header:
 
 # <center> Welcome to my homepage</center> 
 
-<audio controls autoplay loop>
+<audio autoplay loop style="display: none;">
     <source src="/assets/sound.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
 </audio>
