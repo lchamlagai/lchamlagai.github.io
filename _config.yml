@@ -4,12 +4,12 @@
 
 # Site settings
 locale           : "en-US"
-title            : "Lila Chamlagai"
+title            : "Lila K. Chamlagai"
 title_separator  : "|"
 email            : lila_chamlagai@brown.edu
 url              : https://lchamlagai.github.io
 github_username  : lchamlagai
-name             :  "Lila Chamlagai"
+name             :  "Lila K. Chamlagai"
 
 # Build settings
 markdown: kramdown
