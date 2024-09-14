@@ -1,13 +1,13 @@
 ---
 layout: single 
-permalink: /events/
+permalink: /fields/
 author_profile: false
 author: Lila Chamlagai
-title: "Talk & Events"
+title: "Field Work"
 toc: false
 header:
   overlay_color: "#000"
-  overlay_image: /assets/images/talks.jpg
+  overlay_image: /assets/images/field.jpg
 ---
 ## Opinion
 
