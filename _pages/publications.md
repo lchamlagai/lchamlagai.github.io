@@ -2,50 +2,34 @@
 layout: single 
 permalink: /publications/
 author_profile: false
-author: Charly de Marez
+author: Lila Chamlagai
 title: "Publications"
 toc: false
 header:
   overlay_color: "#000"
-  overlay_image: /assets/physindien/IMG_4395.JPG
+  overlay_image: /assets/images/p-health.jpg
 ---
 
 ## Peer-reviewed
 
-<p>  [21] Barabinot, Y., Reinaud, J., Carton, X., <b>de Marez, C.</b>, &amp;  Meunier T. (2024) A 3D Minimum Enstrophy Vortex in stratified quasi-geostrophic flows. <i>Journal of Fluid Mechanics</i>.</p>
-<p>  [20] <b>de Marez, C.</b>, Ruiz-Angulo, A., &amp; Le Corre, M. (2024) <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL107508"> Structure of the bottom boundary current South of Iceland and spreading of deep waters by submesoscale processes</a>, <i>Geophysical Research Letters</i>.</p>
-<p>  [19] Cassianides, A., Lique, C., Tréguier, A-M., Meneghello, G., &amp; <b>de Marez, C.</b> (2023) <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC019469"> Observed spatio-temporal variability of the eddy-sea ice interactions in the Arctic Basin</a>, <i>JGR: Oceans</i>.</p> 
-<p>  [18] <b>de Marez, C.</b>, Callies, J., Haines, B., Rodriguez-Chavez, D., &amp; Wang, J. (2023) <a href="https://journals.ametsoc.org/view/journals/phoc/aop/JPO-D-22-0188.1/JPO-D-22-0188.1.xml?tab_body=abstract-display">Observational Constraints on the Submesoscale Sea Surface Height Variance of Balanced Motion</a>, <i>Journal of Physical Oceanography</i>.</p> 
-<p>  [17] Maréchal G. &amp; <b>de Marez, C.</b> (2022) <a href="https://os.copernicus.org/articles/18/1275/2022/">Variability of wind wave field by realistic mesoscale and submesoscale eddy field</a>, <i>Ocean Sciences</i>.</p> 
-<p>  [16] <b>de Marez, C.</b> &amp; Carton, X. (2021) <a href="https://link.springer.com/article/10.1134/S1560354721050063">Interaction of an upwelling front with external vortices: impact on cross-shore particle exchange</a>, <i>Regular and Chaotic Dynamics</i>.</p> 
-<p>  [15] <b>de Marez, C.</b>, Le Corre, M., &amp; Gula, J. (2021)  <a href="https://www.sciencedirect.com/science/article/abs/pii/S146350032100127X">The influence of merger and convection on an anticyclonic eddy trapped in a bowl</a>, <i>Ocean Modelling</i>.</p> 
-<p>  [14] Meunier, T., Pallas-Sanz, E., <b>de Marez, C. </b>, &amp; Pérez, J., (2021) <a href="https://www.mdpi.com/2072-4292/13/13/2456">The Dynamical Structure of a Warm Core Ring as Inferred from Glider Observations and Along-Track Altimetry</a>, <i>Remote Sensing</i>.</p>
-<p>  [13] L'Hégaret, P., <b>de Marez, C. </b>, Morvan, M., Meunier, T., &amp;  Carton, X. (2021). <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019JC015983"> Spreading and vertical structure of the Persian Gulf and Red Sea outflows in the northwestern Indian Ocean</a>, <i>Journal of Geophysical Research Oceans</i>.</p>
-<p>  [12] Ayouche, A., <b>de Marez, C. </b>, Morvan, M., L'Hégaret, P., Carton, X., Le Vu, B., &amp; Stegner, A. (2021). <a href="https://www.mdpi.com/2673-1924/2/1/7"> Structure and Dynamics of the Ras al Hadd oceanic dipole in the Arabian Sea</a>, <i>Oceans</i>.</p>
-<p>  [11] <b>de Marez, C.</b>, Meunier, T., Tedesco, P., L'Hégaret, P., &amp; Carton, X. (2020). <a href="https://www.tandfonline.com/doi/full/10.1080/03091929.2020.1772779">Vortex-wall interaction on the &beta;-plane and the generation of deep submesoscale cyclones by internal Kelvin Waves-current interactions</a>, <i>Geophysical and Astrophysical Fluid Dynamics</i>.</p>
-<p>  [10] <b>de Marez, C.</b>, Carton, X., Corréard, S., L'Hégaret, P., &amp; Morvan, M. (2020). <a href="https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL087881">Observation of a deep submesoscale cyclonic vortex in the Arabian Sea</a>, <i>Geophysical Research Letters</i>.</p>
-<p>  [9] Morvan, M., Carton X., L'Hégaret, P., <b>de Marez, C.</b>, Corréard S., &amp; Louazel S. (2020). <a href="https://www.tandfonline.com/doi/abs/10.1080/03091929.2020.1747058">On the dynamics of an idealised bottom density current overflowing in a semi-enclosed basin: mesoscale and submesoscale eddies generation </a>, <i>Geophysical and Astrophysical Fluid Dynamics</i>.</p>
-<p>  [8] <b>de Marez, C.</b>, Carton, X., L'Hégaret, P., Meunier, T., Stegner, A., Le Vu, B., &amp; Morvan, M. (2020) <a href="https://www.nature.com/articles/s41598-020-59800-y"> Oceanic vortex mergers are not isolated but influenced by the &beta;-effect and surrounding eddies</a>, <i>Scientific Reports</i>.</p>
-<p>  [7] <b>de Marez, C.</b>, Lahaye, N., &amp; Gula, J. (2020) <a href="https://www.nature.com/articles/s41598-020-59297-5"> Interaction of the Gulf Stream with small scale topography: a focus on lee waves</a>, <i>Scientific Reports</i>.</p> 
-<p>  [6] Meunier, T., Sheinbaum, J., Pallas-Sanz, E., Tenreiro, M., Ochoa, J., Ruiz-Angulo, A., Carton, X., &amp;  <b>de Marez, C. </b> (2020)  <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019GL085600">Heat content anomaly and decay of warm-core rings: The case of the Gulf of Mexico</a>, <i>Geophysical Research Letters</i>.</p>
-<p>  [5] Morvan, M., L'Hégaret, P., <b>de Marez, C.</b>, Carton X., Corréard S., &amp; Baraille R. (2020). <a href="https://www.tandfonline.com/doi/full/10.1080/03091929.2019.1708348">Life cycle of mesoscale eddies in the Gulf of Aden </a>, <i>Geophysical and Astrophysical Fluid Dynamics</i>.</p>
-<p>  [4] <b>de Marez, C.</b>, Meunier, T., Morvan, M., L'Hégaret, P., &amp; Carton, X. (2020) <a href="https://www.sciencedirect.com/science/article/pii/S1463500319302148">Study of the stability of a large Realistic Cyclonic Eddy</a>, <i>Ocean Modelling </i>.</p>
-<p>  [3] Morvan, M., L'Hégaret, P., Carton X., Gula, J., Vic, C., <b>de Marez, C.</b>, Sokolovskiy, M.A., Koshel, K. (2019). <a href="https://www.ocean-sci.net/15/1531/2019/">The life cycle of submesoscale eddies generated by topographic interactions</a>, <i>Ocean Science</i>.</p>
-<p>  [2] <b>de Marez, C.</b>, Morvan, M., L'Hégaret, P., &amp; Carton, X. (2019). <a href="https://www.sciencedirect.com/science/article/pii/S0967063718303650">On the 3D structure of eddies in the Arabian Sea</a>, <i>Deep Sea Research Part. I </i>.</p>
-<p>  [1] <b>de Marez, C.</b>, Carton, X., Morvan, M., &amp; Reinaud, J. N. (2017). <a href="https://www.mdpi.com/2311-5521/2/4/57">The Interaction of Two Surface Vortices Near a Topographic Slope in a Stratified Ocean</a>, <i>Fluids</i> , 2(4), 57.</p>
+<p>  [10] Lopez J.F., Creuza R., Shuaibu S..,Ryan R., Deborah O., Joseph C., Emery M., <b>Chamlagai L.K.</b>,Yasir AE., “Learning Health Systems in Low- and Middle-Income Countries: Challenges and Way Forward” In Progress…..</p>
+<p>  [9] <b>Chamlagai L.K.</b>, Suzuki K., Proulx J. “Effects Stress, Anxiety, Hope for Meaningful Life and Happiness after one week of Chakra Meditations among the former resettled Bhutanese American in the U.S”. In Progress....</p>
+<p>  [8] Prasai, A., <b>Chamlagai, L.K.</b>, Frounfelker, R.L. Gautam, B., Mishra, T., Betancourt, T.S. (2023) “Honoring their Stories’: Care Providers’ Understanding of Psychosocial Concerns among Ethnically Nepali Bhutanese Older Adults with Refugee Life Experience” Asian American Journal of Psychology: [ March 2024 Submited].</p> 
+<p>  [7] "Delivering a Family-Based Child Mental Health Promotion Program among Two Resettled Refugee Communities During the COVID-19 Pandemic: Lessons Learned in a Hybrid Type II Implementation-Effectiveness Randomized Control Trial" by Jung, Euijin; Black, Candace; Placencio-Castro, Matias; <b>Chamlagai, Lila</b>; Osman, Rilwan ; Hoffman, Morgan; Beardslee, William; Betancourt, Theresa S, [ March 2024: Submited]</p> 
+<p>  [6] “We are Deprived from Basic Units Right”: Identifying the Existing Issues, Barrers, Help Seeking Behaviors and Available Resources for mental Health Promotion in Bhutanese Refugee Camps Eastern, Nepal by <b>Lila Chamlagai</b>, Gulmina Khan, Alayha MacNamara, Candace Black, Jeffrey Proulx. [ In Progress Since Feb 2024 ]</p> 
+<p>  [5] Qaderi, S., Miranda, A. V., Odey, G. O., Musa, S. S., Sy Lim, L. T., Vicente, C. R., Obnial, J. C., Ekpenyong, A., Negida, A. S., Ahmadi, A., Ntacyabukura, B., Wong, B. L., Shomuyiwa, D. O., Manirambona, E., Ogunkola, I. O., Lopez, J. C., Buban, J. M., Chamlagai, L.K., Ukor, N. A., … Lucero‐Prisno, D. E. (2023). <a href = "https://doi.org/10.1002/puh2.80"> Taliban’s war on educating girls and women must end now: A call for global actions.</a> Public Health Challenges, 2(2). </p>
+<p>  [4] Lucero-Prisno, D. E., 3rd, Shomuyiwa, D. O., Vicente, C. R., Méndez, M. J. G., Qaderi, S., Lopez, J. C., Mogessie, Y. G., Alacapa, J., <b>Chamlagai, L.K.</b>, Ndayizeye, R., &amp; Kinay, P. (2023). <a href="https://doi.org/10.1186/s41256-023-00286-2">Achieving herd immunity in South America.</a> Global health research and policy, 8(1), 2.</p> 
+<p>  [3] Black C.J., Berent JM., Joshi U., Khan A., <b>Chamlagai L.K.</b>, Shrivastava R., Gautam B., Negeye A., Iftin AN., Ali H.,
+Desrosiers A., Bhan A., Bhattacharya S., Naslund J.A., Betancourt T.S., <a href = "Doi: 10.9745/GHSP-D-22-00312">"Applying Human-Centered Design in Global Mental Health to Improve Reach Among Underserved Populations in the United States and India.</a> Glob Health SciPract. 2023 Feb 28;11(1):e2200312.</p>
+<p>  [2] Neville, S. E., DiClemente-Bosco, K., <b>Chamlagai, L.K.</b>, Bunn, M., Freeman, J., Berent, J. M., Gautam, B., et al. (2022). <a href="http://dx.doi.org/10.3390/ijerph19191241">Investigating Outcomes of a Family Strengthening Intervention for Resettled Somali Bantu and Bhutanese Refugees: An Explanatory Sequential Mixed Methods Study.</a> International Journal of Environmental Research and Public Health, 19(19), 12415. MDPI AG.</p>
+<p>  [1] <b>Chamlagai L.K</b>, Silva E, Alikhani A. <a href="https://doi.org/10.1002/puh2.3">The blame game of the US baby formula crisis.</a> Public Health Chall.2022;1:e36.</p>
+
+## Book Chapters
+
+<p> [1] <b>Chamlagai, L.</b> (2017). “Impact of Science and Technology on Youth Contemporary Society of the United States.” Elmira College Freshmen Essay Book. Elmira, NY.</p>
 
 ## PhD Thesis
 
-<p>  <b>de Marez, C.</b> (2021) <a href="http://www.theses.fr/2021BRES0064"> Dynamique des structures cohérentes de méso et sousméso-échelle en mer d'Arabie</a>, <i>PhD Thesis</i>.</p> 
-## Other 
-
-<p> <a href="https://arxiv.org/abs/2001.01521">Can the earth be flat ? a physical oceanographer's perspective</a><p> 
-<p> Study of lee waves in the Gulf Stream. Master 2 internship under the supervision of Jonathan Gula and Noé Lahaye. <a href="/assets/Rapport_M2_marine_sciences_Charly_DE-MAREZ.pdf">Report</a>.<p> 
-<p> Interaction de deux tourbillons de surface proche d'une marche topographique dans un océan stratifié. Master 1 internship under the supervision of Xavier Carton. <a href="/assets/Rapport_M1_Charly_De-Marez.pdf">Report</a> (in french).<p> 
-<p> Mécanismes responsables d'une transition ductile-fragile dans les métaux : simulation par Dynamique Moléculaire. Licence 3 internship under the supervision of Dome Tanguy. <a href="/assets/DE-MAREZ_Charly_Rapport_L3.pdf">Report</a> (in french).<p> 
-<p> Effet Aharonov-Bohm dans sa baignoire. Practical project with Guilliam Butseraen, published in <i>Journal de Physique et Chimie des Étudiants de l'ENS Lyon</i> <a href="http://www.ens-lyon.fr/MasterSDM/sites/default/files/2021-05/JPCE_mai_2021-compr1.pdf">here</a>; original report <a href="/assets/RapportTP_effetAB_DE-MAREZ_BUTSERAEN.pdf">here</a> (in french).<p> 
-<p> Dynamique de foules. Numerical methods project with Grégoire Uhlrich. <a href="/assets/projet_guhlrich_cdemarez.pdf">Report</a> (in french).<p> 
-<p> Décohérence: du quantique au classique. Quantum information project with Grégoire Uhlrich and Guilliam Butseraen. <a href="/assets/Decoherence_BUTSERAEN_DE-MAREZ_UHLRICH.pdf">Report</a> (in french).<p> 
 
 
 
