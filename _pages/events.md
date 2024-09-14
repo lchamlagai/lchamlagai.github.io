@@ -12,7 +12,7 @@ header:
 ## Opinion
 
 <p> “Country in the Mirror”: Summary and critic of the book that focuses on the physical and mental torture inflicted by
-the Bhutanese regime. <href "https://www.bhutannewsservice.org"> In Nepali language. June 2021 </p>
+the Bhutanese regime. <a href = "https://www.bhutannewsservice.org"> In Nepali language. June 2021 </p>
   
 <p> “My Journey from Bhutanese Refugee Camp to Brown University”, Washington DC. Smithsonian
 library.<a href="https://americanhistory.si.edu/stories-of-2020/story/my-journey-bhutanese-refugee-camp-brown-university">
