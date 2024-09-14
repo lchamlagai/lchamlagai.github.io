@@ -1,23 +1,23 @@
 # /_data/authors.yml
 
-Charly de Marez:
-  name        : "Charly de Marez"
-  bio         : "PhD in Physical Oceanography"
+Lila Chamlagai:
+  name        : "Lila Chamlagai"
+  bio         : "PhD Student at School of Public Health"
 #  avatar      : "/assets/physindien/IMG_4865.JPG"
   links:
-    - label: "charly[at]hi.is"
+    - label: "Mail"
 
-      url: "mailto:charly@hi.is"
+      url: "mailto:lila_chamlagai@brown.edu"
       icon: "fas fa-fw fa-envelope-square"
     - label: "ResearchGate"
-      url: "https://www.researchgate.net/profile/Charly-De-Marez"
+      url: "https://www.researchgate.net/profile/Lila-Chamlagai-2"
       icon: "fab fa-fw fa-researchgate"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=KymzoXMAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ALUCkoVV9toobbyXw1LG1FAfuh6KG4e0lBjJ177PBVRaDRf7hU3w42iPa3bKb9pQnRAaVaQdjHUpc32Mlg2Iwx9CWIbY&user=MPr3__4AAAAJ"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/charly-de-marez-194092123/"
+      url: "https://www.linkedin.com/in/lila-chamlagai-83185a272/"
 
 
 
