@@ -4,7 +4,7 @@ main:
     url: /publications/
   - title: "Talks & Events"
     url: /events/   
-  - title: "CLAPP"
-    url: "./_pages/CLAPP.html"
+  - title: "Field Work"
+    url: "/fields/"
   - title: "CV"
     url: "./_pages/CV_lila.pdf"
