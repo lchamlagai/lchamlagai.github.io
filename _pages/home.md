@@ -13,7 +13,10 @@ header:
 
 # <center> Welcome to my homepage</center> 
 
-
+<audio controls autoplay loop>
+    <source src="path/to/your/audiofile.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+</audio>
 
 
 <p align="justify">
