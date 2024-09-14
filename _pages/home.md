@@ -17,7 +17,10 @@ header:
 
 
 <p align="justify">
-I am a postdoc at the University of Iceland, working on the understanding and characterization of oceanic structures in the Icelandic Basin. This work is done under a Queen Margrethe’s and Vigdís Finnbogadóttir's fellowship in collaboration with Angel Ruiz-Angulo. 
+  
+  I am currently a third-year doctoral student at Brown University School of Public Health. Born and raised in a Bhutanese refugee camp in eastern Nepal, I lived in the camp for nearly 17 years before resettling with my family in Springfield, MA, in 2011. I earned an MPH degree from the Brown University School of Public Health. Before attending Brown, I served as a Community Advisory Board (CAB) member in Community-Based Participatory Research (CBPR) with Dr. Theresa Betancourt’s Research Program on Children and Adversity (RPCA) at the Boston College School of Social Work, where I assisted to investigate cultural norms and traditions related to family-strengthening interventions.
+
+My research interests focus on addressing the challenges faced by refugee communities and other marginalized populations. Specifically, I seek to explore: (1) how socioeconomic status, race/ethnicity, and religion/faith influence mental health, depression, and suicidal ideation; (2) why marginalized populations and low-income communities experience significant health disparities; and (3) how to leverage resources to improve mental health service delivery. Ultimately, I aim to design and implement culturally congruent Mindfulness-Based Interventions (MBI-R) for refugee and immigrant populations in the U.S. and low- to middle-income nations. 
 </p>
 
 ## Oceanic circulation South of Iceland
