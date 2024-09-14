@@ -4,12 +4,12 @@
 
 # Site settings
 locale           : "en-US"
-title            : "Charly de Marez"
+title            : "Lila Chamlagai"
 title_separator  : "|"
-email            : cdemarez@caltech.edu
-url              : https://demarez.github.io
-github_username  : demarez
-name             :  "Charly de Marez"
+email            : lila_chamlagai@brown.edu
+url              : https://lchamlagai.github.io
+github_username  : lchamlagai
+name             :  "Lila Chamlagai"
 
 # Build settings
 markdown: kramdown
