@@ -2,7 +2,7 @@
 permalink: /               # Slash defines this file as the root page
 layout: single 
 author_profile: true
-author: Charly de Marez
+author: Lila Chamlagai
 title: "Homepage"
 excerpt: ""
 header:
