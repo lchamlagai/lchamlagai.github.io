@@ -24,7 +24,7 @@ header:
 <figure> <img src="/assets/images/fig3.JPG">
 <figcaption> </figcaption> </figure>
 
-## Communicating with Xhan-- Hunter-gatherer at Kahlahari Desert 
+## Communicating with Xhan-- Hunter-gatherer at Kalahari Desert 
 
 <figure> <img src="/assets/images/fig4.JPG">
 <figcaption> </figcaption> </figure>
