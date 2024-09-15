@@ -54,7 +54,6 @@ library. <a href="https://americanhistory.si.edu/stories-of-2020/story/my-journe
 
 <p> 2014, National Honor Society Inducted </p>
 
-<p> 2015, Bills and Melinda Gates Foundations Fellowship/Scholarship Recipient</p> 
   
 
 ## OTHER MEDIA APPEARANCES 
